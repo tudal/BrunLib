@@ -1,0 +1,13 @@
+
+
+Please add BrunLib\source\MILib.swc and BrunLib\source\testGfx.swc to classpatch.
+Then compile every test class (ends with *ClassTest) with Flex compiler (mxmlc).
+
+If you using FDT:
+ - select test class in Flash Explorer
+ - press Alt+SHIFT+D, and then press M
+This will create compilation setup accessible from Run panel (green icon top left). 
+
+You can find all graphics in BrunLib\source\testGfx.fla
+
+
